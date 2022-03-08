@@ -1,1 +1,1 @@
-# Registration interface project with pyQt5
+# Registration interface project with PyQt5
