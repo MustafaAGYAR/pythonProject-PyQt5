@@ -1,1 +1,1 @@
-# pythonProject1
+# Registration interface project with pyQt5
